@@ -1,4 +1,4 @@
-kubernetes-master-role
+ansible-kubernetes-master-role
 =========
 
 Ansible Role for configuring K8s master node.
